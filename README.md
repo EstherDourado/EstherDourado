@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá Seja Bem-Vindo(a) 👋
 
 Sou formada em Ciência da Computação e desenvolvedora com foco em backend.
 
