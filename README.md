@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Sou formada em Ciência da Computação e desenvolvedora com foco em backend.
+
+Atualmente estou desenvolvendo um sistema de gestão de estoque e controle de caixa, usando C# .NET como principal ferramenta. Esse projeto tem sido minha base prática para aprofundar conhecimentos em arquitetura MVC e aplicar os princípios SOLID em cada etapa do desenvolvimento.
+
+Tenho experiência com modelagem de dados e gosto de construir sistemas do zero, pensando desde a estrutura até a organização do código e das regras de negócio.
+
+Curtiu o que viu por aqui? Fique à vontade para me seguir e deixar uma ⭐ nos repositórios!
+
 <!--
 **EstherDourado/EstherDourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
