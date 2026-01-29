@@ -1,6 +1,6 @@
 ## Olá Seja Bem-Vindo(a) 👋
 
-Sou formada em Ciência da Computação e desenvolvedora com foco em backend.
+Sou formada em Ciência da Computação e sou desenvolvedora com foco em backend.
 
 Atualmente estou desenvolvendo um sistema de gestão de estoque e controle de caixa, usando C# .NET como principal ferramenta. Esse projeto tem sido minha base prática para aprofundar conhecimentos em arquitetura MVC e aplicar os princípios SOLID em cada etapa do desenvolvimento.
 
